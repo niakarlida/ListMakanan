@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ListMakanan</string>
+    <string name="nama_makanan">Nama Makanan</string>
+    <string name="deskripsi_msksnsn">Deskripsi Makanan</string>
+</resources>
